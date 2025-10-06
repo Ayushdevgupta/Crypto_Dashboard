@@ -31,7 +31,7 @@
 <br />
 Visit <a href="https://cryptocurrency-dashboard-eight.vercel.app/">Cryptocurrency-Dashboard</a> and Discover Cryptos, Charts, and MarketCaps!
 
-![DashBoard home page](https://user-images.githubusercontent.com/63870995/210148826-04032249-b0a7-4958-8a53-d1a5953bab92.png)
+![DashBoard home page](https://github.com/Ayushdevgupta/Crypto_Dashboard/blob/main/dashboard-bg.png?raw=true)
 
 <br />
 <!-- FEATURES -->

@@ -1,7 +1,7 @@
 <h1 align="center">
   <br />
-  <a href="https://readers-space.netlify.app/">
-      <!-- <img src="https://user-images.githubusercontent.com/63870995/209679174-1bada3c7-643d-45e7-a1af-2a9759edd869.png" width="200"/> -->
+  <a href="https://crypto-dashboard-tau-tan.vercel.app/">
+      <img src="https://user-images.githubusercontent.com/63870995/209679174-1bada3c7-643d-45e7-a1af-2a9759edd869.png" width="200"/>
   </a>
   <br/>
   Cryptocurrency Dashboard
@@ -29,7 +29,7 @@
 <p>
     Cryptocurrency Dashboard is a web application that allows users to view cryptocurrency trends and their past price through graphical visualization.</p>
 <br />
-Visit <a href="https://cryptocurrency-dashboard-eight.vercel.app/">Cryptocurrency-Dashboard</a> and Discover Cryptos, Charts, and MarketCaps!
+Visit <a href="https://crypto-dashboard-tau-tan.vercel.app/">Cryptocurrency-Dashboard</a> and Discover Cryptos, Charts, and MarketCaps!
 
 ![DashBoard home page](https://github.com/Ayushdevgupta/Crypto_Dashboard/blob/main/dashboard-bg.png?raw=true)
 
@@ -70,7 +70,7 @@ Visit <a href="https://cryptocurrency-dashboard-eight.vercel.app/">Cryptocurrenc
 - To run this project locally, use the following command in your CLI:
 
 ```bash
-  git clone https://github.com/pavandeveloperr/cryptocurrency-dashboard.git
+  git clone https://github.com/Ayushdevgupta/Crypto_Dashboard.git
 ```
 - Open your favorite code editor and run locally!
 ```bash
@@ -96,10 +96,4 @@ If you want to contribute or have ideas for this project, just fork the repo and
 6. Open and Create a PR
 
 <br />
-  
-## Note
-  <p> This capstone project is associated with <a href="https://www.almabetter.com">Almabetter</a>.</p>
-
-## Disclaimer
-<p> I don't own any of the logos or images used in the project all belongs to their respected owners. </p>
-  
+    
